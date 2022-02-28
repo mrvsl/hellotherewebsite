@@ -1,0 +1,13 @@
+body{
+    background-color:aqua;
+}
+h1 {
+    font-size: 3.2em;
+    color:black;
+    text-shadow: 2px 2px cadetblue;
+}
+p {
+    font-size: 2em; 
+    color:blueviolet;
+    background-color:midnightblue;
+}
